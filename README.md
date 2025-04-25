@@ -1,0 +1,2 @@
+# mbtilogger-privacy-policy
+MBTILoggerアプリのプライバシーポリシー
